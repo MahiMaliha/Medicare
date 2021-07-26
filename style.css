@@ -1,0 +1,267 @@
+.nav-link:hover{
+	background-color: black;
+	color: white;
+	border-radius: 10%;
+
+}
+.navbar{
+	padding: 30px !important;
+}
+
+.col2{
+	margin-left: 100px;
+}
+.logo{
+	width: 130px;
+}
+.nav-link{
+	font-size: 15px !important;
+	font-weight: bolder;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	
+}
+.general{
+	background-color: #D5DBDB;
+}
+.banner{
+	background-color: #EBDEF0 ;
+	background-size: cover;
+	height: 100vh;
+}
+.heading1{
+	font-size: 20px;
+	margin-top: 150px;
+	margin-left: 100px;
+}
+.heading2{
+	font-size: 60px;
+	font-weight: bolder;
+	color: #85929E;
+}
+.bannerimage{
+	width: 900px;
+	height: 500px;
+	padding-left: 100px;
+}
+.aboutpageicon{
+	width: 30px;
+	margin-left: 80px;
+}
+
+.aboutheader{
+	font-size: 30px;
+	color: #1F618D;
+	
+}
+
+.aboutheader1{
+	font-size: 60px;
+	font-weight: bolder;
+	color: #1F618D;
+}
+.aboutfooter{
+	background-color: #0cb8b6;
+}
+.aa{
+	padding-bottom: 35px;
+}
+.workbanner{
+	background-color: #0cb8b6;
+	padding: 50px;
+	font-weight: bolder;
+}
+.workbanner1{
+	
+	font-weight: bolder;
+}
+.workicon{
+	width: 40px;
+	margin-left: 80px;
+}
+.workc4{
+	margin-top: 50px;
+
+}
+.donate{
+	margin-left: 250px;
+
+}
+.donateitem{
+	margin-left: 40px;
+	color: white;
+
+}
+.donor{
+	border:2px solid black;
+	border-radius: 5%;
+}
+.headerambulance{
+
+	background-image: url("ambulance-banner.jpg");
+background-size: cover;
+height: 100vh;
+	background-repeat: no-repeat;
+}
+.ambulanceheading{
+	padding-top: 150px;
+	padding-right: 750px;
+
+}
+.ambulanceheading1{
+	
+	padding-right: 650px;
+	font-size: 65px;
+	font-weight: bolder;
+
+}
+.a1{
+	background-color: yellow;
+	padding: 30px;
+}
+
+.a3{
+width: 40px;
+
+}
+.callambulance{
+background-color: gray;
+background-repeat: no-repeat;
+
+
+
+}
+.ambulancecall{
+	padding-left: 50px;
+	padding-top: 50px;
+}
+.call1{
+	color: black;
+	font-size: 50px;
+	margin-left: 120px;
+	
+}
+.contact{
+	background-color: #AED6F1;
+	border:2px solid #AED6F1;
+	border-radius: 5%;
+}
+.c1{
+	font-size: 20px;
+}
+.blog{
+	background-color: #AED6F1;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.blogh{
+	font-size: 70px;
+	font-weight: bolder;
+}
+.aaa{
+margin-left: 30px;
+}
+
+.appointment{
+	background-color: linear-gradient(to right, rgba(130,190,66,1) 0%,rgba(48,178,210,1) 50%,rgba(28,76,147,1) 100%);
+	background-image: linear-gradient(to right, rgb(130, 190, 66) 0%, rgb(48, 178, 210) 50%, rgb(28, 76, 147) 100%);
+	padding: 90px;
+}
+.appointment1{
+
+	margin-left: 250px;
+	margin-right: 250px;
+}
+.appointment2{
+	font-size: 80px;
+	font-weight: bolder;
+}
+.alarm{
+	width: 30px;
+	margin-left: 50px;
+}
+
+.ap{
+	margin-top: 200px;
+}
+.app2{
+background-color: #C5D6E1 ;
+}
+.pp{
+	margin-left: 800px;
+}
+
+.m1{
+	background-image: url("blurdoctor.jpg");
+	padding: 100px;
+	background-repeat: no-repeat;
+	height: 120vh;
+	background-size: cover;
+}
+.min{
+	color: ;
+	font-size: 50px;
+	font-weight: bolder;
+}
+.min1{
+	font-size: 20px;
+}
+.as{
+	
+	opacity: 0.5;
+	background-color: #D6DBDF;
+	margin-bottom: 20px;
+}
+.as1{
+	width: 150px;
+	border-radius: 50%;
+	margin-left: 50px;
+}
+.n1{
+	color: red;
+}
+.n2{
+	font-size: 50px;
+	font-weight: bolder;
+}
+.n4{
+	background-color: #D6DBDF ;
+}
+.a7{
+	background-color: #F5B7B1;
+}
+.look{
+	background-color: linear-gradient(to right, rgba(130,190,66,1) 0%,rgba(48,178,210,1) 50%,rgba(28,76,147,1) 100%);
+	background-image: linear-gradient(to right, rgb(130, 190, 66) 0%, rgb(48, 178, 210) 50%, rgb(28, 76, 147) 100%);
+	padding: 40px;
+}
+.bb1{
+	margin-left: 200px;
+	padding: 7px;
+}
+.a1{
+	background-color: red;
+}
+.cc3{
+	background-color: linear-gradient(to right, rgba(130,190,66,1) 0%,rgba(48,178,210,1) 50%,rgba(28,76,147,1) 100%);
+	background-image: linear-gradient(to right, rgb(130, 190, 66) 0%, rgb(48, 178, 210) 50%, rgb(28, 76, 147) 100%);
+	padding: 40px;
+}
+.testimonial{
+	background-color: red;
+	padding: 50px;
+}
+.img1{
+	border-radius: 50%;
+	width: 190px;
+
+}
+.cc2{
+	background-color: red;
+
+
+}
+.s1{
+	font-weight: bolder;
+	font-size: 70px;
+}
